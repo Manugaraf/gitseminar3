@@ -67,3 +67,5 @@ git checkout master - возращает к самой последней вер
 > git branch - посмотреть список веток в репозитории
 
 > git branch branch_name - создание ветки с названием
+
+> git commit -am "massage" - команда объядиняющая "git add" и "git commit -m"
