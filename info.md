@@ -73,3 +73,5 @@ git checkout master - возращает к самой последней вер
 > git checkout "branch_name" - переход к ветке с именем "branch_name"
 
 > git branch -d "branch_name" - удалить ветку с именем branch_name
+
+# Основные команды. Семинар 3
